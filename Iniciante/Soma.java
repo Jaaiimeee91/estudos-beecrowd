@@ -1,3 +1,4 @@
+package Iniciante;
 import java.util.Scanner;
 
 public class Soma { // No Beecrowd, a classe SEMPRE deve se chamar Main
