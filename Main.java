@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio1001 { // No Beecrowd, a classe SEMPRE deve se chamar Main
+public class Main { // No Beecrowd, a classe SEMPRE deve se chamar Main
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
