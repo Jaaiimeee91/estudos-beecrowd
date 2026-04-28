@@ -31,13 +31,13 @@ public class Cedulas {
         int notas1 = valor / 1;
         valor %= 1;
 
-        System.out.print(notas100 + " notas(s) de R$ 100,00\n" +
-                notas50 + " notas(s) de R$ 50,00\n" +
-                notas20 + " notas(s) de R$ 20,00\n" +
-                notas10 + " notas(s) de R$ 10,00\n" +
-                notas5 + " notas(s) de R$ 5,00\n" +
-                notas2 + " notas(s) de R$ 2,00\n" +
-                notas1 + " notas(s) de R$ 1,00\n");
+        System.out.print(notas100 + " nota(s) de R$ 100,00\n" +
+                notas50 + " nota(s) de R$ 50,00\n" +
+                notas20 + " nota(s) de R$ 20,00\n" +
+                notas10 + " nota(s) de R$ 10,00\n" +
+                notas5 + " nota(s) de R$ 5,00\n" +
+                notas2 + " nota(s) de R$ 2,00\n" +
+                notas1 + " nota(s) de R$ 1,00\n");
 
         sc.close();
 
